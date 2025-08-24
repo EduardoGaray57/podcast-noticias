@@ -1,0 +1,9 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Archivos de audio generados
+*.mp3
